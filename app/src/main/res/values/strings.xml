@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinTTT</string>
+    <string name="btn_restart">Restart</string>
+</resources>
